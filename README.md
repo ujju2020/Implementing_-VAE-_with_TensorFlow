@@ -45,6 +45,3 @@ The notebook successfully demonstrates how to build and train a VAE for image ge
 - **Dataset:** MNIST.
 - **Focus:** Image generation with Variational Autoencoders (VAEs).
 - **Results:** The VAE generates convincing images of handwritten digits using learned latent representations.
-
-#### Notebook URL:
-You can view the full notebook [here](https://github.com/ujju2020/Implementing_-VAE-_with_TensorFlow/blob/main/Demo_01_Implementing_a_Variational_Autoencoder_(VAE)_with_TensorFlow_for_Image_Generation_Using_the_MNIST_Dataset.ipynb).
